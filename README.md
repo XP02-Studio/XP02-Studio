@@ -1,3 +1,10 @@
+# 📁 Projects
+**Portfolio** - 
+https://xp02-studio.github.io/XP02-s-WebPage
+
+**Games** - 
+https://xp02.itch.io
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__xp02__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayush-gupta-38a766351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akchhatgupta2006@gmail.com) 
@@ -8,7 +15,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=XP02-Studio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=XP02-Studio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=XP02-Studio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
