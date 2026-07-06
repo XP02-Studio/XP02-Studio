@@ -6,13 +6,13 @@ Currently learning Game and Web Developement
 
 # 📂 Projects
 **Portfolio** - 
-https://xp02-studio.github.io/XP02-s-WebPage
+https://xp02-webpage.xp02.workers.dev
 
 **Games** - 
 https://xp02.itch.io
 
 **ASCII Art Generator** -
-https://xp02-studio.github.io/Ascii_generator
+https://ascii-generator.xp02.workers.dev
 
 
 # 💻 Tech Stack: 
