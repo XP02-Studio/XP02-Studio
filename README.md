@@ -61,7 +61,7 @@
 ### 🌐 Direct Networks & Contact
 
 <p align="center">
-  <a href="xp02-portfolio.xp02.workers.dev"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://xp02-portfolio.xp02.workers.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://xp02.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
   <a href="https://github.com/XP02-Studio"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/xp02"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
