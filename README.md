@@ -19,7 +19,7 @@
 
 <table style="width:100%;border-collapse:collapse;font-family:Arial,sans-serif;">
   <tr style="border-bottom:1px solid #30363d;">
-    <th style="text-align:left;padding:8px;color:#58a6ff;">Game</th>
+    <th style="text-align:left;padding:8px;color:#58a6ff;">Games</th>
     <th style="text-align:left;padding:8px;color:#58a6ff;">Tags</th>
     <th style="text-align:center;padding:8px;color:#58a6ff;">Link</th>
   </tr>
@@ -55,6 +55,35 @@
 - **Programming:** GDScript, C / C++, Python, Java
 - **Audio & SFX:** Audacity
 - **Web & Tools:** HTML5, CSS3, JavaScript, Git & GitHub
+
+---
+
+### 🎮 Other Projects
+
+<table style="width:100%;border-collapse:collapse;font-family:Arial,sans-serif;">
+  <tr style="border-bottom:1px solid #30363d;">
+    <th style="text-align:left;padding:8px;color:#58a6ff;">Projects</th>
+    <th style="text-align:left;padding:8px;color:#58a6ff;">Tags</th>
+    <th style="text-align:center;padding:8px;color:#58a6ff;">Link</th>
+  </tr>
+  <tr>
+    <td style="padding:8px;font-weight:bold;">EdgeVitals-Godot</td>
+    <td style="padding:8px;">
+      <span style="background:#21262d;padding:3px 7px;border-radius:4px;">Godot-Plugin</span>
+      <span style="background:#21262d;padding:3px 7px;border-radius:4px;">Game-Dev</span>
+      <span style="background:#21262d;padding:3px 7px;border-radius:4px;">Performance Check</span>
+    </td>
+    <td style="text-align:center;padding:8px;"><a href="https://github.com/XP02-Studio/EdgeVitals-Godot"> View </a></td>
+  </tr>
+  <tr>
+    <td style="padding:8px;font-weight:bold;">XP02's Assistant</td>
+    <td style="padding:8px;">
+      <span style="background:#21262d;padding:3px 7px;border-radius:4px;">LLM</span>
+      <span style="background:#21262d;padding:3px 7px;border-radius:4px;">AI/ML</span>
+    </td>
+    <td style="text-align:center;padding:8px;"><a href="https://xp02-assistant.xp02.workers.dev"> View </a></td>
+  </tr>
+</table>
 
 ---
 
