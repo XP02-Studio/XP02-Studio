@@ -76,10 +76,11 @@
     <td style="text-align:center;padding:8px;"><a href="https://github.com/XP02-Studio/EdgeVitals-Godot"> View </a></td>
   </tr>
   <tr>
-    <td style="padding:8px;font-weight:bold;">XP02's Assistant</td>
+    <td style="padding:8px;font-weight:bold;">EVE</td>
     <td style="padding:8px;">
       <span style="background:#21262d;padding:3px 7px;border-radius:4px;">LLM</span>
       <span style="background:#21262d;padding:3px 7px;border-radius:4px;">AI/ML</span>
+      <span style="background:#21262d;padding:3px 7px;border-radius:4px;">Assistant</span>
     </td>
     <td style="text-align:center;padding:8px;"><a href="https://xp02-assistant.xp02.workers.dev"> View </a></td>
   </tr>
